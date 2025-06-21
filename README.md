@@ -26,7 +26,7 @@ Python 3.x
 
 Pandas — Manipulação e limpeza de dados.
 
-Matplotlib e Seaborn — Visualização gráfica dos dados.
+Numpy openpyxl nbformat ipykernel
 
 Jupyter Notebook — Para organização e explicação passo a passo da análise.
 
