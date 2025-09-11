@@ -1,0 +1,30 @@
+
+---
+
+# 📌 README – Projeto-Analisando-Dados-Python
+
+```markdown
+# 📈 Projeto: Analisando Dados com Python (Pandas & Matplotlib)
+
+## 📖 Descrição
+Projeto de análise exploratória e visualização realizado em Jupyter Notebooks. O objetivo é demonstrar fluxo completo de **ETL básico → EDA → Visualização → Insights** usando Pandas e Matplotlib (ou Seaborn).
+
+## 🔎 Principais perguntas respondidas
+- Quais são as variáveis mais relevantes do dataset?
+- Existem padrões, tendências temporais ou outliers?
+- Quais transformações melhoram a qualidade dos dados?
+
+## 🛠 Tecnologias / Dependências
+- Python 3.8+
+- pandas
+- matplotlib
+- jupyterlab / notebook
+- numpy
+- (opcional) seaborn
+
+Instalação:
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+jupyter lab
